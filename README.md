@@ -8,9 +8,9 @@ How to use:
 Follow the first steps of our Phonegap Quickstart guide to set up the backend and download the SDK. Copy the apiomat.js from the SDK into the www/lib folder.
 After installing the Android SDK and Phonegap you can go to the directory containing this project (parent folder of www) and run the following commands:
 
-cordova platform add android
-cordova build
-cordova emulate android
+* cordova platform add android
+* cordova build
+* cordova emulate android
 
 With other SDKs you can use other platforms. Read the Phonegap documentation for further details.
 
